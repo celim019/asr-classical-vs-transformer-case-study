@@ -1,0 +1,10 @@
+pocketsphinx==5.1.1
+sherpa-onnx
+jiwer
+librosa
+soundfile
+numpy
+matplotlib
+num2words
+onnx
+psutil
